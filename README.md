@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Terraform and TDD with Jest**
 
-- 👨‍💻 I have a seperate portfolio for building websites <a href="https://sylviomafort.dev">here</a>
+- 👨‍💻 I have a seperate portfolio <a href="https://sylviomafort.dev">here</a>
 
 - 📫 If you'd like to get in touch with me, send me an email at **sylarfort@gmail.com**
 
@@ -70,17 +70,17 @@
         <td width="50%">
           <h3 align="center">Izzit Vegan</h3>
           <p align="center">
-            <a href""><img src="https://media.giphy.com/media/eRGBx0qZUT00PrKfDT/giphy.gif" alt="project example"/></a>
+            <a href""><img src="" alt="project example"/></a>
             <p align="center">
-             Users can enter an EAN or UPC barcode. A table of ingredients and whether the ingredients is vegan is returned
+             Users can ...
             </p>
             <br>
             <p align="center">Developed with - <strong> HTML5, Javascript, CSS, Open Food Facts Api</strong><p>
             <p align="center">
-            <a href="https://github.com/sylfort/Izzit_vegan" target="_blank">
+            <a href="" target="_blank">
             <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
             </a>  
-            <a href="https://izzit.netlify.app/" target="_blank">
+            <a href="" target="_blank">
             <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
             </a>
             </p>
@@ -102,7 +102,6 @@
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=sylfort&bg_color=FFFFFF00&hide_border=true&text_color=005da8&title_color=1288ff&include_all_commits=true&count_private=true">
 </table>
 </div>
-<img src="https://activity-graph.herokuapp.com/graph?username=sylfort&bg_color=FFFFFF00&color=0aa9ff&line=1288ff&point=26acff&hide_border=true&title_color=">
 
 
 
