@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Terraform and TDD with Jest**
 
-- 👨‍💻 I have a seperate portfolio <a href="https://sylviomafort.dev">here</a>
+- 👨‍💻 I have a separate portfolio <a href="https://sylviomafort.dev">here</a>
 
 - 📫 If you'd like to get in touch with me, send me an email at **sylarfort@gmail.com**
 
