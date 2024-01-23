@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sylvio</h1>
-<h3 align="center">I’m a full stack developer with experience in JavaScript, React, Node.js and AWS</h3>
+<h3 align="center">I’m a full stack developer with experience in TypeScript, Next.js, React, Node.js, Docker and AWS</h3>
 
 - 🔭 I’m currently working on **a fullstack web app that connect users interested in coffee chats**
 
@@ -67,24 +67,24 @@
           </p>
           </p>
         </td>
-        <td width="50%">
-          <h3 align="center">Izzit Vegan</h3>
+    <td width="50%">
+          <h3 align="center">Coffee Chats Now</h3>
           <p align="center">
-            <a href""><img src="" alt="project example"/></a>
+            <img src="" alt="project example" width="100%"/>
             <p align="center">
-             Users can ...
+              Users can 
             </p>
-            <br>
-            <p align="center">Developed with - <strong> HTML5, Javascript, CSS, Open Food Facts Api</strong><p>
-            <p align="center">
-            <a href="" target="_blank">
-            <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
-            </a>  
-            <a href="" target="_blank">
-            <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
-            </a>
-            </p>
-            </p>
+          <br>
+          <p align="center"> Developed with - <strong> HTML5, Javascript, CSS, NASA APOD Api</strong><p>
+          <p align="center">
+          <a href="" target="_blank">
+          <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+          </a>  
+          <a href="" target="_blank">
+          <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
+          </a>
+          </p>
+          </p>
         </td>
       </tr>
   </table>
