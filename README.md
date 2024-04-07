@@ -7,7 +7,7 @@
 
 - 👨‍💻 I have a separate portfolio <a href="https://sylviomafort.dev">here</a>
 
-- 📫 If you'd like to get in touch with me, send me an email at **sylarfort@gmail.com**
+- 📫 If you'd like to get in touch with me, send me an email at **contact@sylviomafort.dev**
 
 - ⚡ Fun fact **I've practiced Aikido for 5+ years**
 
