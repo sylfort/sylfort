@@ -33,12 +33,11 @@
       <td colspan="2">
           <h3 align="center">Menternshift</h3>
           <p align="center">
-            <img src="" alt="project example" width="100%"/>
             <p align="center">
-               Full-stack web application social network where Users can ...
+               Full-stack web application social network where Users can look for mentors and mentees
             </p>
           <br>
-          <p align="center"> Developed with - <strong> HTML5, Javascript, Tailwind, Bootstrap, ExpressJS, MongoDB, Node.js</strong><p>
+          <p align="center"> Developed with - <strong> TypeScript, React, Ruby on Rails</strong><p>
             <p align="center">
               <a href="" target="_blank">
               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
@@ -49,14 +48,14 @@
     </tr>
     <tr>
         <td width="50%">
-          <h3 align="center">Coffee Chats Now</h3>
+          <h3 align="center">Runeterra Marketplace</h3>
           <p align="center">
-            <img src="" alt="project example" width="100%"/>
+            <img src="https://sylviomafort.dev/images/coffeechatsnow_screenshot.jpg" alt="project example" width="100%"/>
             <p align="center">
-              Users can 
+              Marketplace for Legends of Runeterra built in Vanilla JavaScript and Bootstrap CSS 
             </p>
           <br>
-          <p align="center"> Developed with - <strong> HTML5, Javascript, CSS, NASA APOD Api</strong><p>
+          <p align="center"> Developed with - <strong> HTML5, Javascript, Bootstrap CSS</strong><p>
           <p align="center">
           <a href="" target="_blank">
           <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
@@ -70,12 +69,12 @@
     <td width="50%">
           <h3 align="center">Coffee Chats Now</h3>
           <p align="center">
-            <img src="" alt="project example" width="100%"/>
+            <img src="https://sylviomafort.dev/images/runeterra_screenshot.jpg" alt="project example" width="100%"/>
             <p align="center">
-              Users can 
+              Coffee chat event scheduler app
             </p>
           <br>
-          <p align="center"> Developed with - <strong> HTML5, Javascript, CSS, NASA APOD Api</strong><p>
+          <p align="center"> Developed with - <strong> React, ReactQuery, yup, Tailwind, Node, Express, MongoDB</strong><p>
           <p align="center">
           <a href="" target="_blank">
           <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
