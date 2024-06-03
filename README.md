@@ -39,7 +39,7 @@
           <br>
           <p align="center"> Developed with - <strong> TypeScript, React, Ruby on Rails</strong><p>
             <p align="center">
-              <a href="" target="_blank">
+              <a href="https://github.com/DaveBFlanikJr/menternshift-frontend" target="_blank">
               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
               </a>  
             </p>
@@ -50,17 +50,17 @@
         <td width="50%">
           <h3 align="center">Runeterra Marketplace</h3>
           <p align="center">
-            <img src="https://sylviomafort.dev/images/coffeechatsnow_screenshot.jpg" alt="project example" width="100%"/>
+            <img src="https://sylviomafort.dev/images/runeterra_screenshot.jpg" alt="project example" width="100%"/>
             <p align="center">
               Marketplace for Legends of Runeterra built in Vanilla JavaScript and Bootstrap CSS 
             </p>
           <br>
           <p align="center"> Developed with - <strong> HTML5, Javascript, Bootstrap CSS</strong><p>
           <p align="center">
-          <a href="" target="_blank">
+          <a href="https://github.com/sylfort/marketplace" target="_blank">
           <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
           </a>  
-          <a href="" target="_blank">
+          <a href="https://sylfort.github.io/marketplace/" target="_blank">
           <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
           </a>
           </p>
@@ -69,7 +69,7 @@
     <td width="50%">
           <h3 align="center">Coffee Chats Now</h3>
           <p align="center">
-            <img src="https://sylviomafort.dev/images/runeterra_screenshot.jpg" alt="project example" width="100%"/>
+            <img src="https://sylviomafort.dev/images/coffeechatsnow_screenshot.jpg" alt="project example" width="100%"/>
             <p align="center">
               Coffee chat event scheduler app
             </p>
@@ -79,8 +79,6 @@
           <a href="" target="_blank">
           <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
           </a>  
-          <a href="" target="_blank">
-          <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
           </a>
           </p>
           </p>
