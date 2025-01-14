@@ -35,18 +35,18 @@
   <table>
     <tr>
       <td colspan="2">
-          <h3 align="center">Menternshift</h3>
+          <h3 align="center">Cats n' Cheese</h3>
           <p align="center">
+            <img src="https://sylviomafort.dev/images/catsncheese_screenshot.jpg" alt="project example" height="188px"/>
             <p align="center">
-               Full-stack web application social network where Users can look for mentors and mentees
+              Single-player game where players act as mice stealing cheese from cats, Created for the MeltingHack Sprint#2 Hackathon.
             </p>
           <br>
-          <p align="center"> Developed with - <strong> TypeScript, React, Ruby on Rails</strong><p>
-            <p align="center">
-              <a href="https://github.com/DaveBFlanikJr/menternshift-frontend" target="_blank">
-              <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
-              </a>  
-            </p>
+          <p align="center"> Developed with - <strong> React, Tailwind CSS, Next.js, Deployed on Vercel</strong><p>
+          <p align="center">
+          <a href="https://github.com/sylfort/cats-n-cheese" target="_blank"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/></a>  
+          <a href="https://cats-n-cheese.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/></a>
+          </p>
           </p>
         </td>
     </tr>
@@ -60,6 +60,7 @@
             </p>
           <br>
           <p align="center"> Developed with - <strong> HTML5, Javascript, Bootstrap CSS</strong><p>
+          <br>
           <p align="center">
           <a href="https://github.com/sylfort/marketplace" target="_blank"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/></a>  
           <a href="https://sylfort.github.io/marketplace/" target="_blank"><img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/></a>
@@ -67,17 +68,17 @@
           </p>
         </td>
     <td width="50%">
-          <h3 align="center">Cats n' Cheese</h3>
+          <h3 align="center">Shiru Guestbook</h3>
           <p align="center">
-            <img src="https://sylviomafort.dev/images/catsncheese_screenshot.jpg" alt="project example" height="188px"/>
+            <img src="https://github.com/sylfort/guestbook-t3/assets/24916160/87bfd091-454a-4c91-9904-b3d2b6905507" alt="project example" height="188px"/>
             <p align="center">
-              Single-player game where players act as mice stealing cheese from cats, Created for the MeltingHack Sprint#2 Hackathon.
+              Shiru Guestbook is a modern web application that allows users to create and view guestbook entries.
             </p>
           <br>
-          <p align="center"> Developed with - <strong> React, Tailwind CSS, Next.js, Deployed on Vercel</strong><p>
+          <p align="center"> Developed with - <strong> TypeScript, React, Tailwind CSS, Next.js, Amazon RDS, OpenAI API</strong><p>
           <p align="center">
-          <a href="https://github.com/sylfort/cats-n-cheese" target="_blank"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/></a>  
-          <a href="https://cats-n-cheese.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/></a>
+          <a href="https://github.com/sylfort/guestbook-t3" target="_blank"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/></a>  
+          <a href="https://shiru-guestbook-t3.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/></a>
           </p>
           </p>
         </td>
