@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a fullstack web app that connect users interested in coffee chats**
 
-- 🌱 I’m currently learning **Terraform and TDD with Jest**
+- 🌱 I’m currently learning **Java and TDD with JUnit**
 
 - 👨‍💻 I have a separate portfolio <a href="https://sylviomafort.dev">here</a>
 
