@@ -54,7 +54,7 @@
         <td width="50%">
           <h3 align="center">Runeterra Marketplace</h3>
           <p align="center">
-            <img src="https://sylviomafort.dev/images/runeterra_screenshot.jpg" alt="project example" width="100%"/>
+            <img src="https://sylviomafort.dev/images/runeterra_screenshot.jpg" alt="project example" height="188px"/>
             <p align="center">
               Marketplace for Legends of Runeterra built in Vanilla JavaScript and Bootstrap CSS 
             </p>
@@ -69,7 +69,7 @@
     <td width="50%">
           <h3 align="center">Cats n' Cheese</h3>
           <p align="center">
-            <img src="https://sylviomafort.dev/images/catsncheese_screenshot.jpg" alt="project example" width="100%" height="228.64px"/>
+            <img src="https://sylviomafort.dev/images/catsncheese_screenshot.jpg" alt="project example" height="188px"/>
             <p align="center">
               Single-player game where players act as mice stealing cheese from cats, Created for the MeltingHack Sprint#2 Hackathon.
             </p>
