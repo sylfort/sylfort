@@ -7,23 +7,28 @@
 
 - 👨‍💻 I have a separate portfolio <a href="https://sylviomafort.dev">here</a>
 
-- 📫 If you'd like to get in touch with me, send me an email at **contact@sylviomafort.dev**
+- 📫 If you'd like to get in touch with me, send me an email at sylarfort (at) gmail (dot) com
 
 - ⚡ Fun fact **I've practiced Aikido for 5+ years**
 
 <h2 align="center">Languages Used</h2>
 <p align="center">
-
-<img src="https://img.shields.io/badge/JavaScript-005da8?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=25>
-<img src="https://img.shields.io/badge/Node.js-005da8?style=for-the-badge&logo=nodedotjs&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/-Vue-005da8?style=for-the-badge&logo=Vuedotjs&logoColor=white" height=25>
+<img src="https://shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000" height=25>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height=25>
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" height=25>
 <img src="https://img.shields.io/badge/React-005da8?style=for-the-badge&logo=react&logoColor=61DAFB" height=25>
+<img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge" height=25>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" height=25>
 <img src="https://img.shields.io/badge/MongoDB-005da8?style=for-the-badge&logo=mongodb&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/GIT-005da8?style=for-the-badge&logo=git&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/HTML5-005da8?style=for-the-badge&logo=html5&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/CSS3-005da8?style=for-the-badge&logo=css3&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1" height=25>
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height=25>
 </p>
-
 
 <h2 align="center">Recent Projects:</h2>
 
