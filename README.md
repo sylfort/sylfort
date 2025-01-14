@@ -57,12 +57,8 @@
           <br>
           <p align="center"> Developed with - <strong> HTML5, Javascript, Bootstrap CSS</strong><p>
           <p align="center">
-          <a href="https://github.com/sylfort/marketplace" target="_blank" style="text-decoration: none !important;">
-          <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
-          </a>  
-          <a href="https://sylfort.github.io/marketplace/" target="_blank">
-          <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
-          </a>
+          <a href="https://github.com/sylfort/marketplace" target="_blank"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/></a>  
+          <a href="https://sylfort.github.io/marketplace/" target="_blank"><img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/></a>
           </p>
           </p>
         </td>
@@ -76,14 +72,8 @@
           <br>
           <p align="center"> Developed with - <strong> React, Tailwind CSS, Next.js, Deployed on Vercel</strong><p>
           <p align="center">
-          <a href="https://github.com/sylfort/cats-n-cheese" target="_blank">
-          <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
-          </a>  
-          <a href="https://cats-n-cheese.vercel.app/" target="_blank" style="text-decoration: none !important;">Link Text</a>
-          <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
-          </a>
-          </a>  
-          </a>
+          <a href="https://github.com/sylfort/cats-n-cheese" target="_blank"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/></a>  
+          <a href="https://cats-n-cheese.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/></a>
           </p>
           </p>
         </td>
