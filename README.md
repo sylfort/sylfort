@@ -70,9 +70,9 @@
     <td width="50%">
           <h3 align="center">Cats n' Cheese</h3>
           <p align="center">
-            <img src="https://sylviomafort.dev/images/catsncheese_screenshot.jpg" alt="project example" width="100%"/>
+            <img src="https://sylviomafort.dev/images/catsncheese_screenshot.jpg" alt="project example" width="100%" height="228.64px"/>
             <p align="center">
-              single-player game where players act as mice stealing cheese from cats, Created for the MeltingHack Sprint#2 Hackathon.
+              Single-player game where players act as mice stealing cheese from cats, Created for the MeltingHack Sprint#2 Hackathon.
             </p>
           <br>
           <p align="center"> Developed with - <strong> React, Tailwind CSS, Next.js, Deployed on Vercel</strong><p>
