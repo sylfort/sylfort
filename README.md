@@ -67,17 +67,21 @@
           </p>
         </td>
     <td width="50%">
-          <h3 align="center">Coffee Chats Now</h3>
+          <h3 align="center">Cats n' Cheese</h3>
           <p align="center">
             <img src="https://sylviomafort.dev/images/coffeechatsnow_screenshot.jpg" alt="project example" width="100%"/>
             <p align="center">
-              Coffee chat event scheduler app
+              single-player game where players act as mice stealing cheese from cats, Created for the MeltingHack Sprint#2 Hackathon.
             </p>
           <br>
-          <p align="center"> Developed with - <strong> React, ReactQuery, yup, Tailwind, Node, Express, MongoDB</strong><p>
+          <p align="center"> Developed with - <strong> React, Tailwind CSS, Next.js, Deployed on Vercel</strong><p>
           <p align="center">
-          <a href="" target="_blank">
+          <a href="https://github.com/sylfort/cats-n-cheese" target="_blank">
           <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+          </a>  
+          <a href="https://cats-n-cheese.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
+          </a>
           </a>  
           </a>
           </p>
