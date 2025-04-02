@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sylvio</h1>
 <h3 align="center">I’m a full stack developer with experience in Python, TypeScript, Next.js, React, Node.js, Docker and AWS</h3>
 
-- 🔭 I’m working on **a fullstack web app that connect users interested in coffee chats**
+- 🔭 I’m working on **a fullstack web app to identify Japanese sweets from images and rank their popularity.**
 
 - 🌱 I’m currently learning **Flutter and Dart**
 
