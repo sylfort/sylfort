@@ -75,7 +75,7 @@
               Shiru Guestbook is a modern web application that allows users to create and view guestbook entries.
             </p>
           <br>
-          <p align="center"> Developed with - <strong> TypeScript, React, Tailwind CSS, Next.js, Amazon RDS, OpenAI API</strong><p>
+          <p align="center"> Developed with - <strong> TypeScript, React, Tailwind CSS, Next.js, Supabase, OpenAI API</strong><p>
           <p align="center">
           <a href="https://github.com/sylfort/guestbook-t3" target="_blank"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/></a>  
           <a href="https://shiru-guestbook-t3.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/></a>
